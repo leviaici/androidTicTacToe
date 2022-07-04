@@ -1,2 +1,2 @@
 # androidTicTacToe
-Java based Tic Tac Toe game for Android.
+Created a Java based Tic Tac Toe game for Android.
